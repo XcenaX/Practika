@@ -1,0 +1,43 @@
+CREATE TRIGGER _Delete ON dbo.Books
+FOR delete
+AS 
+
+declare @id int ,
+@name nvarchar(20), @cnt int, @cnt_of_st int
+select @id = b_id from dbo.Books
+ select @name = b_nm from dbo.Books
+ select @cnt = b_count from dbo.Books
+ select @cnt_of_st = dbo.Students.st_cnt_of_books
+ 
+if @cnt > 0 and @cnt_of_st <= 0
+ begin 
+
+select b_count = b_count - 1 from dbo.Books
+ select deleted_b_count = deleted_b_count + 1 from dbo.Deleted_Books
+ insert Deleted_Books(deleted_b_id, deleted_b_nm)
+ values(@id,@name)
+delete from Books 
+ where  @name = deleted_b_nm and
+  @cnt = deleted_b_count and
+  @id = deleted_b_id
+ 
+end
+   ROLLBACK TRANSACTION
+
+
+
+CREATE TRIGGER _Return on dbo.Books
+	FOR insert
+AS 
+declare @id int ,
+@name nvarchar(20), @cnt int
+select @id = deleted_b_id from Deleted_Books
+ select @name = deleted_b_nm from Deleted_Books
+ select @cnt = deleted_b_count from Deleted_Books
+ insert Books(b_id,b_nm,b_count)
+ values(@id,@name,@cnt)
+ delete from Deleted_Books 
+ where  @name = deleted_b_nm and
+  @cnt = deleted_b_count and
+  @id = deleted_b_id
+   ROLLBACK TRANSACTION
