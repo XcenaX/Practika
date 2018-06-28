@@ -1,0 +1,42 @@
+База данных находится на сервере sql , называется Влад 28.06.2018.    (она почти в самом конце)
+
+
+create nonclustered index _Name on
+dbo.Autors(Name)
+
+
+create unique nonclustered index ID on
+dbo.Autors(ID)
+
+
+
+select*from dbo.Books
+
+
+select top 2 max(Autor_ID) as [Максимальный ID(знаю что тупо)] , sum(B.ID) as SAS from dbo.Books B, dbo.Autors A
+where B.Autor_iD = A.ID and A.Name like 'В%'
+order by SAS
+
+
+select B.Name from dbo.Books B
+inner join dbo.Autors A on A.ID = B.Autor_iD
+left join dbo.Buyers Buy on Buy.ID = B.Buyer_ID
+group by B.Name
+
+
+delete Books
+
+
+create table Books(
+ID int Primary key,
+Name nvarchar(30),
+Autor_ID int Foreign key references dbo.Autors(ID),
+Publisher_ID int Foreign key references dbo.Publishers(ID),
+Buyer_ID int Foreign key references dbo.Buyers(ID)
+)
+
+
+update dbo.Books
+set dbo.Books.Name = 'Garry3'
+where dbo.Books.ID = 4
+
