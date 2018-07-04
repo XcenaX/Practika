@@ -1,0 +1,9 @@
+База данных Lebedev's Library находитсся на сервере sql
+
+Представление которое показывает какие студенты брали книги
+
+
+SELECT        dbo.Students.Name
+FROM            dbo.Сутденты_Которые_Брали_Книги_но_Не_вернули INNER JOIN
+                         dbo.Students ON dbo.Сутденты_Которые_Брали_Книги_но_Не_вернули.StudentID = dbo.Students.ID INNER JOIN
+                         dbo.Books ON dbo.Сутденты_Которые_Брали_Книги_но_Не_вернули.BookID = dbo.Books.ID
