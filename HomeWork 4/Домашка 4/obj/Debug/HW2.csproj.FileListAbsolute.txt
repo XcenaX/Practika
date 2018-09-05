@@ -1,0 +1,14 @@
+c:\users\лебедевв\source\repos\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+c:\users\лебедевв\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+c:\users\лебедевв\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+c:\users\лебедевв\source\repos\HW2\HW2\bin\Debug\HW2.exe
+c:\users\лебедевв\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+c:\users\лебедевв\source\repos\HW2\HW2\obj\Debug\HW2.exe
+c:\users\лебедевв\source\repos\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\bin\Debug\HW2.exe.config
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\bin\Debug\HW2.exe
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\bin\Debug\HW2.pdb
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\obj\Debug\HW2.exe
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\HW2\obj\Debug\HW2.pdb
