@@ -1,0 +1,5 @@
+c:\users\lebedev'ml\documents\visual studio 2013\Projects\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\lebedev'ml\documents\visual studio 2013\Projects\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\lebedev'ml\documents\visual studio 2013\Projects\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\lebedev'ml\documents\visual studio 2013\Projects\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\lebedev'ml\documents\visual studio 2013\Projects\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
