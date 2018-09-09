@@ -1,0 +1,22 @@
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe.config
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.csprojResolveAssemblyReference.cache
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.pdb
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.exe
+C:\Users\Lebedev'ml\Documents\Visual Studio 2013\Projects\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.pdb
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.exe
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.pdb
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe.config
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe
+C:\Users\ЛебедевВ\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.pdb
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.exe
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\obj\Debug\Practice ULTRA.pdb
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe.config
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.pdb
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe.CodeAnalysisLog.xml
+C:\Users\Lebedev'ml\source\repos\Practice ULTRA\Practice ULTRA\bin\Debug\Practice ULTRA.exe.lastcodeanalysissucceeded
