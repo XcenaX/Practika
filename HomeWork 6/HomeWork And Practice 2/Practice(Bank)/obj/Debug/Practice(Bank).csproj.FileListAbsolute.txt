@@ -1,0 +1,7 @@
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\bin\Debug\Practice(Bank).exe.config
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\bin\Debug\Practice(Bank).exe
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\bin\Debug\Practice(Bank).pdb
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\obj\Debug\Practice(Bank).csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\obj\Debug\Practice(Bank).csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\obj\Debug\Practice(Bank).exe
+C:\Users\Lebedev'ml\source\repos\Practice(Bank)\obj\Debug\Practice(Bank).pdb
