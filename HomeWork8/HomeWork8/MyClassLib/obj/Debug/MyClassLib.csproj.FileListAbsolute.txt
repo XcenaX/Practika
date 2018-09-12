@@ -1,0 +1,6 @@
+c:\users\лебедевв\source\repos\HomeWork8\MyClassLib\bin\Debug\MyClassLib.dll
+c:\users\лебедевв\source\repos\HomeWork8\MyClassLib\bin\Debug\MyClassLib.pdb
+c:\users\лебедевв\source\repos\HomeWork8\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+c:\users\лебедевв\source\repos\HomeWork8\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+c:\users\лебедевв\source\repos\HomeWork8\MyClassLib\obj\Debug\MyClassLib.dll
+c:\users\лебедевв\source\repos\HomeWork8\MyClassLib\obj\Debug\MyClassLib.pdb
