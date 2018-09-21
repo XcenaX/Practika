@@ -1,0 +1,7 @@
+C:\Users\Lebedev'ml\source\repos\homework 9\bin\Debug\homework 9.exe.config
+C:\Users\Lebedev'ml\source\repos\homework 9\bin\Debug\homework 9.exe
+C:\Users\Lebedev'ml\source\repos\homework 9\bin\Debug\homework 9.pdb
+C:\Users\Lebedev'ml\source\repos\homework 9\obj\Debug\homework 9.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\homework 9\obj\Debug\homework 9.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\homework 9\obj\Debug\homework 9.exe
+C:\Users\Lebedev'ml\source\repos\homework 9\obj\Debug\homework 9.pdb
