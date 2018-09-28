@@ -1,0 +1,7 @@
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\bin\Debug\HW13.exe.config
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\bin\Debug\HW13.exe
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\bin\Debug\HW13.pdb
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\obj\Debug\HW13.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\obj\Debug\HW13.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\obj\Debug\HW13.exe
+C:\Users\Lebedev'ml\source\repos\HW13\HW13\obj\Debug\HW13.pdb
