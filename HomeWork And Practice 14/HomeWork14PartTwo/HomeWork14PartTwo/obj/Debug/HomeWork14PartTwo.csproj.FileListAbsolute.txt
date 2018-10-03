@@ -1,0 +1,7 @@
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\bin\Debug\HomeWork14PartTwo.exe.config
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\bin\Debug\HomeWork14PartTwo.exe
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\bin\Debug\HomeWork14PartTwo.pdb
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\obj\Debug\HomeWork14PartTwo.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\obj\Debug\HomeWork14PartTwo.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\obj\Debug\HomeWork14PartTwo.exe
+C:\Users\Lebedev'ml\source\repos\HomeWork14PartTwo\HomeWork14PartTwo\obj\Debug\HomeWork14PartTwo.pdb
