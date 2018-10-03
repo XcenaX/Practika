@@ -1,0 +1,17 @@
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.dll
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Twilio.dll
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.xml
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\bin\Debug\Twilio.xml
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CopyComplete
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+c:\users\лебедевв\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
