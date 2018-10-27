@@ -1,0 +1,42 @@
+{
+  "Animal": {
+    "CountOfTails": "0",
+    "FirstName": "Мужик",
+    "LastName": "Таджик",
+    "HisMom": "So Good!"
+  },
+
+  "Animal2": {
+    "CountOfTails": "9",
+    "FirstName": "Хабиб",
+    "LastName": "Нурмагаметов",
+    "HisMom": "My Mom!"
+  },
+
+  "Animal3": {
+    "CountOfTails": "0",
+    "FirstName": "Олег",
+    "LastName": "Сергеевич",
+    "HisMom": "Good"
+  },
+
+  "Person": {
+    "FullName": "Лебедев Владислав Сергеевич",
+    "Age": "16",
+    "CountOfFingers": "20"
+  },
+
+  "Person2": {
+    "FullName": "Даже не знаю что придумать...",
+    "Age": "17",
+    "CountOfFingers": "20"
+  },
+
+  "Person3": {
+    "FullName": "Олег Сергеевич топ!(Резкая эволюция из животного в человека!)",
+    "Age": "26",
+    "CountOfFingers": "20"
+  }
+
+
+}

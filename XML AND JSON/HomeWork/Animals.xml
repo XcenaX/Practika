@@ -1,0 +1,22 @@
+﻿<Animals>
+  <Animal
+  CountOfTails="1"
+  FirstName="Миища"
+  LastName="Из Шымкента"
+  HisMom="So Good!"
+  />
+
+  <Animal
+  CountOfTails="1"
+  FirstName="Анимал"
+  LastName="Зверь"
+  HisMom="So Good!"
+  />
+
+  <Animal
+   CountOfTails="1"
+   FirstName="Я"
+   LastName="когда голоден"
+   HisMom="So Good!"
+  />
+</Animals>

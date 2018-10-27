@@ -1,0 +1,21 @@
+﻿<People>
+
+  <Person
+  FullName= "Лебедев Владислав Сергеевич"
+  Age ="16"
+  CountOfFingers="20"
+/>
+
+  <Person
+  FullName= "Лебедев Владислав Сергеевич(Брат за Брата убьет акробата)"
+  Age ="19"
+  CountOfFingers="20"
+/>
+
+  <Person
+   FullName= "Скидан Олег Сергеевич"
+   Age ="26"
+   CountOfFingers="20"
+/>
+
+</People>
