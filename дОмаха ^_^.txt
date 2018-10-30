@@ -1,0 +1,56 @@
+Лямбда выражения
+[тип делегата] [имя]([параметры]) => [выражение ]
+
+class Program
+{
+    delegate int Operation(int a, int b);
+    static void Main(string[] args)
+    {
+        Operation operation = (a, b) => a + b;
+        
+	Console.WriteLine(operation(13, 21));      
+
+        Console.WriteLine(operation(4, 2324));      
+
+        Console.Read();
+    }
+}
+
+
+События 
+event [тип] [имя]([параметры]);
+
+    public delegate void AccountStateHandler(string message);
+
+    public event AccountStateHandler Withdrawn;
+
+Анонимные методы
+delegate([параметры])
+{
+    ...
+}
+
+class Program
+{
+    delegate void MessageHandler(string message);
+    static void Main(string[] args)
+    {
+        MessageHandler handler = delegate(string message)
+        {
+            Console.WriteLine(message);
+        };
+        handler("Спайдэр мэн!");
+ 
+        Console.Read();
+    }
+}
+
+Делегаты
+delegate [тип] [имя]([параметры]);
+
+    public delegate void AccountStateHandler(string message);
+
+
+
+
+
